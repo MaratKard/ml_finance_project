@@ -294,3 +294,4 @@ cython_debug/
 .project_venv/share/jupyter/nbextensions/anywidget/index.js
 .project_venv/share/man/man1/ipython.1
 .project_venv/share/man/man1/ttx.1
+GitHub_PAC.txt
