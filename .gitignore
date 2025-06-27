@@ -312,3 +312,6 @@ GitHub_PAC.txt
 .project_venv/share/jupyter/labextensions/catboost-widget/static/style.js
 .project_venv/share/jupyter/nbextensions/catboost-widget/extension.js
 .project_venv/share/jupyter/nbextensions/catboost-widget/index.js
+ta_lib-0.5.2-cp312-cp312-win_amd64.whl
+ta_lib-0.6.4-cp312-cp312-win_amd64.whl
+.project_venv/Scripts/pip3.12.exe
